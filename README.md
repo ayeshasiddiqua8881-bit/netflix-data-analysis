@@ -113,8 +113,7 @@ Netflix-Data-Analysis/
 │   └── results/
 │
 ├── README.md
-├── requirements.txt
-└── .gitignore
+|__ requirements.md
 ```
 
 ---
